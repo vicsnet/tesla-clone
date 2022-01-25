@@ -9,49 +9,49 @@ function Home() {
             
                 title='Model S'
                 description='Order Online for Touchless Delivery'
-                backgroundImg='model-a.jpg'
+                backgroundImg='model-s.jpg'
                 leftBtnText='Custom Order'
                 rightBtnText='Existing Inventory'
             />
             <Section
                 title='Model Y'
                 description='Order Online for Technology Delivery'
-                backgroundImg='model-b.jpg'
+                backgroundImg='model-y.jpg'
                 leftBtnText='Custom Order'
                 rightBtnText='Existing Inventory'
             />
             <Section
                 title='Model Z'
                 description='Order Online for Touchless Delivery'
-                backgroundImg='model-c.jpg'
+                backgroundImg='model-3.jpg'
                 leftBtnText='Custom Order'
                 rightBtnText='Existing Inventory'
             />
             <Section
                 title='Model X'
                 description='Order Online for Touchless Delivery'
-                backgroundImg='model-a.jpg'
+                backgroundImg='model-x.jpg'
                 leftBtnText='Custom Order'
                 rightBtnText='Existing Inventory'
             />
             <Section
                 title='Lowest Cost Solar Panel'
                 description='Money-back guarantee'
-                backgroundImg='sol.png'
+                backgroundImg='solar-panel.jpg'
                 leftBtnText='Order Now'
                 rightBtnText='Learn more'
             />
             <Section
                 title='Solar for New Roofs'
                 description='Solar Proof Costs Less Than a New Roof Plus Solar Panels'
-                backgroundImg='fumigate.jpg'
+                backgroundImg='solar-roof.jpg'
                 leftBtnText='Order Now'
                 rightBtnText='Learn more'
             />
             <Section
                 title='Accessories'
                 description=''
-                backgroundImg='acc.jpg'
+                backgroundImg='accessories.jpg'
                 leftBtnText='Shop Now'
                
             />
